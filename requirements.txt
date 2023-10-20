@@ -7,3 +7,4 @@ click==7.0
 gunicorn==19.9.0
 lxml
 redis
+urllib3>=1.26.18 # not directly required, pinned by Snyk to avoid a vulnerability
