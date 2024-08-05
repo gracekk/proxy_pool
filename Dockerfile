@@ -1,4 +1,4 @@
-FROM python:3.6-alpine
+FROM python:3.13.0b4-alpine
 
 MAINTAINER jhao104 <j_hao104@163.com>
 
